@@ -1,0 +1,8 @@
+{
+  "name": "True Harvest V1.0",
+  "description": "A premium AI-powered digital sanctuary for the Christian community.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

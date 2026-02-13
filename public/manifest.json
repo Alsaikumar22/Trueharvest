@@ -1,0 +1,26 @@
+
+{
+  "name": "True Harvest",
+  "short_name": "TrueHarvest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0F172A",
+  "orientation": "portrait",
+  "description": "The definitive True Harvest Christian app. Read the Bible, explore Christian songs, and grow with AI-powered spiritual insights.",
+  "categories": ["lifestyle", "education", "books"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
